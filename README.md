@@ -168,7 +168,7 @@ Add keyword-level sentiment tracking
 **Data Analyst | Excel | Python | SQL | Power BI**
 
 - **GitHub:** 
-https://github.com/Samruddhi-Savale/Banking-Analytics.git
+https://github.com/Samruddhi-Savale/Instagram-Sentiment-Analysis.git
 
 - **LinkedIn:** 
 https://www.linkedin.com/posts/samruddhi1_banking-analytics-mdd-excel-python-activity-7501636987955720193-L4QD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUztP0BlILrmBYgvnMo_Qr5hfnQDHziN8k

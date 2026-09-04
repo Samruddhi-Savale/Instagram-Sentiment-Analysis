@@ -57,7 +57,7 @@ Power BI (Dashboard)
 ### 🔹 Sentiment Analysis
 Used VADER from NLTK:
 
-```python
+ ``` python
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 sia = SentimentIntensityAnalyzer()
@@ -70,6 +70,7 @@ def classify_sentiment(text):
         return "Negative"
     else:
         return "Neutral
+```
 ---
 
 ## 🔄 Data Pipeline
@@ -84,7 +85,7 @@ word_count → number of words
 
 **🔹 Create Table**
 
-CREATE TABLE comments (
+``` CREATE TABLE comments (
     id INT AUTO_INCREMENT PRIMARY KEY,
     comment TEXT,
     clean_comment TEXT,
@@ -92,10 +93,10 @@ CREATE TABLE comments (
     comment_length INT,
     word_count INT
 );
-
+```
 **🔹 Key Queries**
 
-Sentiment Distribution
+ ``` Sentiment Distribution
 SELECT sentiment, COUNT(*) AS total_comments
 FROM comments
 GROUP BY sentiment;
@@ -107,8 +108,8 @@ GROUP BY sentiment;
 Average Comment Length
 SELECT sentiment, AVG(comment_length) AS avg_length
 FROM comments
-GROUP BY sentiment;
-
+GROUP BY sentiment; 
+```
 ---
 
 ## 📊 Power BI Dashboard

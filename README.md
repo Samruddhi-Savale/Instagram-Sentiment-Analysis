@@ -85,7 +85,8 @@ word_count → number of words
 
 **🔹 Create Table**
 
-``` CREATE TABLE comments (
+```
+CREATE TABLE comments (
     id INT AUTO_INCREMENT PRIMARY KEY,
     comment TEXT,
     clean_comment TEXT,
@@ -96,7 +97,8 @@ word_count → number of words
 ```
 **🔹 Key Queries**
 
- ``` Sentiment Distribution
+ ```
+Sentiment Distribution
 SELECT sentiment, COUNT(*) AS total_comments
 FROM comments
 GROUP BY sentiment;

@@ -175,3 +175,12 @@ https://github.com/Samruddhi-Savale/Instagram-Sentiment-Analysis.git
 
 - **LinkedIn:** 
 https://www.linkedin.com/posts/samruddhi1_instagram-sentiment-analysis-mdd-activity-7501654408057950208-fAgr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUztP0BlILrmBYgvnMo_Qr5hfnQDHziN8k
+
+---
+
+## ⭐ Support
+
+If you find this project useful.
+<p align="center">
+  <strong>📊 Turning Data into Meaningful Insights & Insights into Decisions 🚀</strong>
+</p>
